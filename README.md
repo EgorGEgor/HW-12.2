@@ -39,7 +39,8 @@ sudo systemctl status mysql
 sudo systemctl enable mysql
 mysql -u root -p
 ```
-![png]()
+![png]()![1 1](https://github.com/user-attachments/assets/70c3a43b-2414-45d4-bb73-3efa1d1c6702)
+
 ![png]()
 
 1.2. Создайте учётную запись sys_temp. 
